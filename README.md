@@ -1,5 +1,5 @@
 # Projects
-This is the List of All the Projects I have Done 
+List of All My Projects 
 
 1. Meltdown and Spectre
   > Wrote research paper on implementing solutions for Meltdown and Spectre
